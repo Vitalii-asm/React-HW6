@@ -40,7 +40,7 @@ export default function Register() {
 			  required
 		  />
 
-		  <label>Country</label>
+		  <label>Country:</label>
 		  <select
 			  name='country'
 			  type='country'
